@@ -27,7 +27,7 @@ Make sure you have **Node.js** installed on your system.
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/QuickBite.git
+git clone https://github.com/nandini2727/QuickBite.git
 cd QuickBite
 ```
 
